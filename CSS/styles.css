@@ -1,7 +1,7 @@
 :root {
     --blanco: #ffffff;
     --oscuro: #212121;
-    --primario: #FFC107;
+    --primario: #d8ee14fb;
     --secundario: #0097A7;
     --gris: #757575;
     --grisClaro: #DFE9F3;
@@ -155,7 +155,7 @@ h1,h2,h3 {
 
 /* Hero */
 .hero { 
-    background-image: url(../img/hero.jpg);
+    background-image: url(../img/med-freelance-1024x683.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 450px;
